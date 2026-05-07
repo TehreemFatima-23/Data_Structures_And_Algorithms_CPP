@@ -9,3 +9,5 @@ This repository contains my daily practice and lab and theory assignments for th
 * **Editor:** Visual Studio Code
 
 ## Topics Covered
+  **Arrays**
+  **Stack**  
