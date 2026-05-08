@@ -11,3 +11,7 @@ This repository contains my daily practice and lab and theory assignments for th
 ## Topics Covered
 * **Arrays** 
 * **Stack** 
+* **Applications of Stack** 
+* **Parenthesis checker** 
+* **Infix to Postfix conversion** 
+* **Postfix Evaluation** 
