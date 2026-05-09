@@ -9,9 +9,11 @@ This repository contains my daily practice and lab and theory assignments for th
 * **Editor:** Visual Studio Code
 
 ## Topics Covered
-* **Arrays** 
-* **Stack** 
+* **1. Arrays** 
+* **2. Stack** 
 * **Applications of Stack** 
 * **Parenthesis checker** 
 * **Infix to Postfix conversion** 
 * **Postfix Evaluation** 
+* **Decimal to Binary conversion** 
+* **Binary to Decimal conversion** 
