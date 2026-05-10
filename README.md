@@ -17,3 +17,5 @@ This repository contains my daily practice and lab and theory assignments for th
 * **Postfix Evaluation** 
 * **Decimal to Binary conversion** 
 * **Binary to Decimal conversion** 
+* **3. Queue** 
+* **4. Linked list** 
