@@ -16,15 +16,24 @@ void push(int value){
             
         }
 }
-
+//delete values from the stack
 void pop(){
     if(top == -1){
         cout<<"Stack is empty"<<endl;
     }
     else{
         int temp = stackArr[top];
-        cout<<temp<<" Value deleted"<<endl;
+        cout<<"\"" <<temp<<"\" Value deleted"<<endl;
         top--;
+    }
+}
+
+void peek(){
+    if(top==-1){
+        cout<<"Stack is empty";
+    }
+    else{
+        cout<<"Top element is: "<<stackArr[top]<<endl;
     }
 }
 
@@ -48,9 +57,11 @@ int main(){
     push(15);
     push(55);
 
+    peek();
+
     display();
 
-    pop();//delete values from the stack
+    pop();
     pop();
 
     display();
