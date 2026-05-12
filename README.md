@@ -11,13 +11,13 @@ This repository contains my daily practice and lab and theory assignments for th
 ## Topics Covered
 * **1. Arrays** 
 * **2. Stack** 
-* **Applications of Stack** 
-* ****Parenthesis checker**** 
-* ****Infix to Postfix conversion**** 
-* ****Postfix Evaluation**** 
-* ****Decimal to Binary conversion**** 
-* ****Binary to Decimal conversion**** 
+* Applications of Stack 
+  * Parenthesis checker 
+  * Infix to Postfix conversion
+  * Postfix Evaluation
+  * Decimal to Binary conversion
+  * Binary to Decimal conversion
 * **3. Queue** 
-* ****Circular Queue**** 
-* ****Double ended circular queue**** 
+  * Circular Queue 
+  * Double ended circular queue 
 * **4. Linked list** 
