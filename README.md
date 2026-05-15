@@ -17,6 +17,7 @@ This repository contains my daily practice and lab and theory assignments for th
   * Postfix Evaluation
   * Decimal to Binary conversion
   * Binary to Decimal conversion
+  * Assignmnet # 1: Plate balancing game using Stack(basic functions)
 * **3. Queue** 
   * Circular Queue 
   * Double ended circular queue 
