@@ -19,6 +19,8 @@ This repository contains my daily practice and lab and theory assignments for th
   * Binary to Decimal conversion
   * Assignmnet # 1: Plate balancing game using Stack(basic functions)
 * **3. Queue** 
+  * QUeue Assignmnets
   * Circular Queue 
   * Double ended circular queue 
 * **4. Linked list** 
+  * Linked list Assignments
