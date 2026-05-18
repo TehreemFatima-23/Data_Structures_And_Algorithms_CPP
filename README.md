@@ -11,6 +11,7 @@ This repository contains my daily practice and lab and theory assignments for th
 ## Topics Covered
 * **1. Arrays** 
 * **2. Stack** 
+  * Stack Implementation
 * Applications of Stack 
   * Parenthesis checker 
   * Infix to Postfix conversion
@@ -18,9 +19,14 @@ This repository contains my daily practice and lab and theory assignments for th
   * Decimal to Binary conversion
   * Binary to Decimal conversion
   * Assignmnet # 1: Plate balancing game using Stack(basic functions)
-* **3. Queue** 
-  * QUeue Assignmnets
+* **3. Queue**
+  * Queue Assignmnets
+  * Queue Implementation
   * Circular Queue 
   * Double ended circular queue 
+  * Priority queue 
 * **4. Linked list** 
   * Linked list Assignments
+  * Linked list Implementation
+  * Circular linked list
+  * Doubly linked list
