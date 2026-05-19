@@ -30,3 +30,15 @@ This repository contains my daily practice and lab and theory assignments for th
   * Linked list Implementation
   * Circular linked list
   * Doubly linked list
+* **5. Trees**
+  * Tree Implementation
+* **6. Searching**
+  * Linear Search
+  * Binary Search
+* **7. Sorting**
+  * Insertion sort
+  * Selection sort
+  * Quick sort
+  * Merge sort
+* **8. Graphs**
+* **9. Hashing**
