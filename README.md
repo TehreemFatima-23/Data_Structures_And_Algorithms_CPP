@@ -42,3 +42,6 @@ This repository contains my daily practice and lab and theory assignments for th
   * Merge sort
 * **8. Graphs**
 * **9. Hashing**
+  * Linear hashing
+  * Quadratic hashing
+  * Double hashing
