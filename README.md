@@ -35,12 +35,16 @@ This repository contains my daily practice and lab and theory assignments for th
 * **6. Searching**
   * Linear Search
   * Binary Search
+  * BFS
+  * DFS
 * **7. Sorting**
   * Insertion sort
   * Selection sort
   * Quick sort
   * Merge sort
 * **8. Graphs**
+  * Kruskal Algorithm
+  * Prims ALgorithm
 * **9. Hashing**
   * Linear hashing
   * Quadratic hashing
