@@ -35,8 +35,8 @@ This repository contains my daily practice and lab and theory assignments for th
 * **6. Searching**
   * Linear Search
   * Binary Search
-  * BFS
-  * DFS
+  * BFS(Breadth First Search)
+  * DFS(Depth First Search)
 * **7. Sorting**
   * Insertion sort
   * Selection sort
