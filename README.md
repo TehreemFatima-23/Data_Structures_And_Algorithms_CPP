@@ -32,6 +32,10 @@ This repository contains my daily practice and lab and theory assignments for th
   * Doubly linked list
 * **5. Trees**
   * Tree Implementation
+* **5. Heap**
+  * Heap Tree Assignment
+  * Max Heap
+  * Min Heap
 * **6. Searching**
   * Linear Search
   * Binary Search
