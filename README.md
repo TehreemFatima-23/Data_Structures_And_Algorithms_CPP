@@ -32,6 +32,7 @@ This repository contains my daily practice and lab and theory assignments for th
   * Doubly linked list
 * **5. Trees**
   * Tree Implementation
+  * BST (Binary Search Tree)
 * **5. Heap**
   * Heap Tree Assignment
   * Max Heap
@@ -42,12 +43,14 @@ This repository contains my daily practice and lab and theory assignments for th
   * BFS(Breadth First Search)
   * DFS(Depth First Search)
 * **7. Sorting**
+  * Bubble sort
   * Insertion sort
   * Selection sort
   * Quick sort
   * Merge sort
 * **8. Graphs**
   * Kruskal Algorithm
+  * Dijkstra's Algorithm
   * Prims ALgorithm
 * **9. Hashing**
   * Linear hashing
