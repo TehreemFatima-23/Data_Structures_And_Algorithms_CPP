@@ -9,7 +9,8 @@ This repository contains my daily practice and lab and theory assignments for th
 * **Editor:** Visual Studio Code
 
 ## Topics Covered
-* **1. Arrays** 
+* **1. Arrays**
+  * Arrays Implementation 
 * **2. Stack** 
   * Stack Implementation
 * Applications of Stack 
