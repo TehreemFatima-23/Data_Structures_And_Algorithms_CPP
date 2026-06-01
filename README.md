@@ -35,6 +35,7 @@ This repository contains my daily practice and lab and theory assignments for th
   * Tree Implementation
   * BST (Binary Search Tree)
 * **5. Heap**
+  * Heap Implementation
   * Heap Tree Assignment
   * Max Heap
   * Min Heap
