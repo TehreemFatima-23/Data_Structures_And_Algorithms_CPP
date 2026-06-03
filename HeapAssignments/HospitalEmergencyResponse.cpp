@@ -84,7 +84,7 @@ public:
         int index = 0; 
  
         while (true) 
-        { 
+        { // Formulas
             int left = 2 * index + 1; 
             int right = 2 * index + 2; 
             int largest = index; 
@@ -184,7 +184,7 @@ public:
         cout << "Ambulance Added Successfully....\n"; 
     } 
  
-    // Dispatch Fastest Ambulance 
+    // Dispatch Fastest Ambulance(The ambulance taking less time will be preferred) 
 
     void dispatchAmbulance() 
     { 
@@ -207,7 +207,7 @@ public:
         int index = 0; 
  
         while (true) 
-        { 
+        { // Formulas
             int left = 2 * index + 1; 
             int right = 2 * index + 2; 
             int smallest = index; 
