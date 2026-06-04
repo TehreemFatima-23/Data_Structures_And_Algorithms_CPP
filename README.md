@@ -51,6 +51,7 @@ This repository contains my daily practice and lab and theory assignments for th
   * Quick sort
   * Merge sort
 * **8. Graphs**
+  * Graphs Assignment
   * Kruskal Algorithm
   * Dijkstra's Algorithm
   * Prims ALgorithm
