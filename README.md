@@ -27,10 +27,11 @@ This repository contains my daily practice and lab and theory assignments for th
   * Double ended circular queue 
   * Priority queue 
 * **4. Linked list** 
-  * Linked list Assignments
-  * Linked list Implementation
-  * Circular linked list
-  * Doubly linked list
+  * Linked List Assignments
+  * Linked List Implementation
+  * Singly Linked List
+  * Circular Linked List
+  * Doubly Linked List
 * **5. Trees**
   * Tree Implementation
   * BST (Binary Search Tree)
