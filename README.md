@@ -103,6 +103,9 @@
         </ul>
     </li>
     <li>
+        <strong>10. Recursion</strong>
+    </li>
+    <li>
         <strong>Final Project for DSA Course</strong>
     </li>
 </ul>
