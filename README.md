@@ -106,6 +106,7 @@
         <strong>10. Recursion</strong>
         <ul>
             <li>Fibonacci Sequence</li>
+            <li>Sum of N Numbers</li>
         </ul>
     </li>
     <li>
