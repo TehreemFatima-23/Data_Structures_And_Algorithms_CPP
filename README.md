@@ -107,6 +107,7 @@
         <ul>
             <li>Fibonacci Sequence</li>
             <li>Sum of N Numbers</li>
+            <li>Factorial of a number</li>
         </ul>
     </li>
     <li>
