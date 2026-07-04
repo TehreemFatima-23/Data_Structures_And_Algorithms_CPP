@@ -109,6 +109,7 @@
             <li>Sum of N Numbers</li>
             <li>Factorial of a number</li>
             <li>Reverse a number</li>
+            <li>Print N to 1 numbers</li>
         </ul>
     </li>
     <li>
