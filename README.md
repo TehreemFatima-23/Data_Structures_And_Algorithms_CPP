@@ -110,6 +110,7 @@
             <li>Factorial of a number</li>
             <li>Reverse a number</li>
             <li>Print N to 1 numbers</li>
+            <li>Sum of Even numbers</li>
         </ul>
     </li>
     <li>
