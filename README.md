@@ -111,6 +111,7 @@
             <li>Reverse a number</li>
             <li>Print N to 1 numbers</li>
             <li>Sum of Even numbers</li>
+            <li>Count of digits of a number</li>
         </ul>
     </li>
     <li>
