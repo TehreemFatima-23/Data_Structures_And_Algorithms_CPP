@@ -35,9 +35,9 @@
         <ul>
             <li>Queue Assignments</li>
             <li>Queue Implementation</li>
-            <li>Circular Queue</li>
-            <li>Double ended circular queue</li>
-            <li>Priority queue</li>
+            <li>Circular Queue Program</li>
+            <li>Double ended circular queue program</li>
+            <li>Priority queue program</li>
         </ul>
     </li>
     <li>
