@@ -37,7 +37,7 @@
             <li>Queue Implementation</li>
             <li>Circular Queue Program</li>
             <li>Double ended circular queue program</li>
-            <li>Priority queue program</li>
+            <li>Priority queue (In this program, largest number has the highest priority)</li>
         </ul>
     </li>
     <li>
