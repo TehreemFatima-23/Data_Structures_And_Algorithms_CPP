@@ -45,7 +45,7 @@
         <ul>
             <li>Linked List Assignments</li>
             <li>Simple Linked List Implementation</li>
-            <li>Singly Linked List</li>
+            <li>Singly Linked List program Implementation</li>
             <li>Circular Linked List</li>
             <li>Doubly Linked List</li>
         </ul>
