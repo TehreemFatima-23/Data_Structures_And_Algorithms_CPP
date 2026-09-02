@@ -47,7 +47,7 @@
             <li>Simple Linked List Implementation</li>
             <li>Singly Linked List program Implementation</li>
             <li>Circular Linked List program implementation</li>
-            <li>Doubly Linked List</li>
+            <li>Doubly Linked List implementation by a program</li>
         </ul>
     </li>
     <li>
