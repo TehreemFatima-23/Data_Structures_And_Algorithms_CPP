@@ -53,7 +53,7 @@
     <li>
         <strong>5. Trees</strong>
         <ul>
-            <li>Tree Implementation</li>
+            <li>Binary Tree Implementation</li>
             <li>BST (Binary Search Tree)</li>
         </ul>
     </li>
