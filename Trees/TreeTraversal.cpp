@@ -15,7 +15,7 @@ TreeNode* createTreeNode(int value){
     return newNode;
 }
 
-// Preorder Traversal
+// Preorder Traversal(Root->Left->Right)
 void preOrder(TreeNode* root){
     if(root == nullptr){
         return;
@@ -24,7 +24,7 @@ void preOrder(TreeNode* root){
     preOrder(root->left);
     preOrder(root->right);
 }
-// Inorder Traversal
+// Inorder Traversal(Left->Root->Right)
 void inOrder(TreeNode* root){
     if(root == nullptr){
         return;
@@ -33,7 +33,7 @@ void inOrder(TreeNode* root){
     std::cout<<root->value<<" ";
     inOrder(root->right);
 }
-// Postorder Traversal
+// Postorder Traversal(Left->Right->Root)
 void postOrder(TreeNode* root){
     if(root == nullptr){
         return;
