@@ -54,6 +54,7 @@
         <strong>5. Trees</strong>
         <ul>
             <li>Binary Tree Implementation</li>
+            <li>Binary Tree Traversal</li>
             <li>BST (Binary Search Tree)</li>
         </ul>
     </li>
