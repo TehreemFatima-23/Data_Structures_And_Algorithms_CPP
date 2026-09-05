@@ -55,7 +55,7 @@
         <ul>
             <li>Binary Tree Implementation</li>
             <li>Binary Tree Traversal</li>
-            <li>BST (Binary Search Tree)</li>
+            <li>BST (Binary Search Tree) implementation with all functions</li>
         </ul>
     </li>
     <li>
