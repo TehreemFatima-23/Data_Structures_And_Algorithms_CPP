@@ -64,7 +64,7 @@
             <li>Heap Implementation</li>
             <li>Heap Tree Assignment</li>
             <li>Max Heap Implementation</li>
-            <li>Min Heap</li>
+            <li>Min Heap Implementation</li>
         </ul>
     </li>
     <li>
