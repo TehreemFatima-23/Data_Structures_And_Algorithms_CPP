@@ -73,7 +73,7 @@
         <ul>
             <li>Linear Search</li>
             <li>Binary Search</li>
-            <li>BFS(Breadth First Search)</li>
+            <li>BFS(Breadth First Search) implementation</li>
             <li>DFS(Depth First Search)</li>
         </ul>
     </li>
