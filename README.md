@@ -80,7 +80,7 @@
     <li>
         <strong>7. Sorting</strong>
         <ul>
-            <li>Bubble sort prpogram</li>
+            <li>Bubble sort</li>
             <li>Insertion sort</li>
             <li>Selection sort</li>
             <li>Quick sort</li>
