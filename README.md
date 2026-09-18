@@ -116,7 +116,4 @@
             <li>Count of digits of a number</li>
         </ul>
     </li>
-    <li>
-        <strong>Final Project for DSA Course</strong>
-    </li>
 </ul>
