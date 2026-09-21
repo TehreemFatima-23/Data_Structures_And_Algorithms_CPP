@@ -99,7 +99,8 @@
     <li>
         <strong>9. Hashing</strong>
         <ul>
-            <li>Linear hashing</li>
+            <li>Basic hashing program</li>
+            <li>Linear probing</li>
             <li>Quadratic hashing</li>
             <li>Double hashing</li>
         </ul>
