@@ -101,7 +101,7 @@
         <ul>
             <li>Basic hashing program</li>
             <li>Linear probing</li>
-            <li>Quadratic hashing</li>
+            <li>Quadratic probing</li>
             <li>Double hashing</li>
         </ul>
     </li>
